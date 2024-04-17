@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Samsung Galaxy S21 Smartphone",
+        "price": "799.99",
+        "description": "The Samsung Galaxy S21 features a stunning display, powerful camera system, and high-performance capabilities. Stay connected and capture every moment with this flagship smartphone.",
+        "ratings": 4.8,
+        "images": [{
+            "public_id": "product/galaxys21",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/galaxys21.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 30,
+        "numofReviews": 56,
+        "reviews": []
+    },
+    {
+        "name": "Canon EOS Rebel T7 DSLR Camera",
+        "price": "599.99",
+        "description": "Capture breathtaking moments with the Canon EOS Rebel T7 DSLR Camera. This camera is perfect for both beginners and enthusiasts, offering high-quality images and intuitive controls.",
+        "ratings": 4.6,
+        "images": [{
+            "public_id": "product/canoneosrebel",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/canoneosrebel.jpg"
+        }],
+        "category": "Cameras",
+        "seller": "Best Buy",
+        "stock": 15,
+        "numofReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Dell XPS 13 Laptop",
+        "price": "1299.99",
+        "description": "Experience unmatched performance with the Dell XPS 13 Laptop. This ultrabook features a stunning InfinityEdge display, powerful processors, and a sleek design for on-the-go productivity.",
+        "ratings": 4.9,
+        "images": [{
+            "public_id": "product/dellxps13",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/dellxps13.jpg"
+        }],
+        "category": "Laptop",
+        "seller": "Dell",
+        "stock": 20,
+        "numofReviews": 45,
+        "reviews": []
+    },
+    {
+        "name": "TechGear Pro Gaming Mouse",
+        "price": "49.99",
+        "description": "Elevate your gaming experience with the TechGear Pro Gaming Mouse. Designed for precision and comfort, this mouse is equipped with customizable buttons and adjustable DPI settings.",
+        "ratings": 4.7,
+        "images": [{
+            "public_id": "product/gamingmouse",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/gamingmouse.jpg"
+        }],
+        "category": "Accessories",
+        "seller": "TechGear",
+        "stock": 50,
+        "numofReviews": 28,
+        "reviews": []
+    },
+    {
+        "name": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+        "price": "349.95",
+        "description": "Immerse yourself in music with the Sony WH-1000XM4 headphones. These wireless, noise-canceling headphones provide an exceptional listening experience with industry-leading sound quality.",
+        "ratings": 4.9,
+        "images": [{
+            "public_id": "product/sonywh1000xm4",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/sonywh1000xm4.jpg"
+        }],
+        "category": "Headphones",
+        "seller": "Sony Store",
+        "stock": 10,
+        "numofReviews": 48,
+        "reviews": []
+    },
+    {
+        "name": "Organic Superfood Smoothie Blend",
+        "price": "29.99",
+        "description": "Fuel your body with the Organic Superfood Smoothie Blend. Packed with nutrient-rich ingredients, this blend is perfect for creating delicious and healthy smoothies.",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "product/superfoodsmoothie",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/superfoodsmoothie.jpg"
+        }],
+        "category": "Food",
+        "seller": "Whole Foods",
+        "stock": 40,
+        "numofReviews": 36,
+        "reviews": []
+    },
+    {
+        "name": "The Great Gatsby by F. Scott Fitzgerald",
+        "price": "14.99",
+        "description": "Immerse yourself in the classic novel, The Great Gatsby, by F. Scott Fitzgerald. This timeless piece of literature explores themes of wealth, love, and the American Dream.",
+        "ratings": 4.8,
+        "images": [{
+            "public_id": "product/greatgatsby",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/greatgatsby.jpg"
+        }],
+        "category": "Books",
+        "seller": "Barnes & Noble",
+        "stock": 30,
+        "numofReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "Adidas Ultraboost Running Shoes",
+        "price": "129.99",
+        "description": "Experience superior comfort and style with the Adidas Ultraboost Running Shoes. Designed for performance, these shoes are perfect for both casual runners and serious athletes.",
+        "ratings": 4.7,
+        "images": [{
+            "public_id": "product/ultraboost",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/ultraboost.jpg"
+        }],
+        "category": "clothes/Shoes",
+        "seller": "Adidas",
+        "stock": 35,
+        "numofReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "L'Oreal Paris Revitalift Anti-Aging Cream",
+        "price": "24.99",
+        "description": "Revitalize your skin with L'Oreal Paris Revitalift Anti-Aging Cream. This advanced formula helps reduce wrinkles and improve skin elasticity, leaving you with a youthful glow.",
+        "ratings": 4.6,
+        "images": [{
+            "public_id": "product/lorealrevitalift",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/lorealrevitalift.jpg"
+        }],
+        "category": "Beauty/Health",
+        "seller": "Ulta Beauty",
+        "stock": 25,
+        "numofReviews": 22,
+        "reviews": []
+    },
+    {
+        "name": "Nike Pro Hypercool Compression Shorts",
+        "price": "39.99",
+        "description": "Enhance your workout with Nike Pro Hypercool Compression Shorts. These shorts provide support and breathability, making them an essential part of your athletic wear collection.",
+        "ratings": 4.8,
+        "images": [{
+            "public_id": "product/nikeproshorts",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/nikeproshorts.jpg"
+        }],
+        "category": "Sport",
+        "seller": "Nike Store",
+        "stock": 20,
+        "numofReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "YETI Tundra 45 Cooler",
+        "price": "299.99",
+        "description": "Keep your beverages and snacks cool with the YETI Tundra 45 Cooler. Built to withstand tough conditions, this cooler is perfect for outdoor adventures and camping trips.",
+        "ratings": 5,
+        "images": [{
+            "public_id": "product/yeticooler",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/yeticooler.jpg"
+        }],
+        "category": "outdoor",
+        "seller": "REI",
+        "stock": 15,
+        "numofReviews": 28,
+        "reviews": []
+    },
+    {
+        "name": "Cozy Home Decor Throw Blanket",
+        "price": "49.99",
+        "description": "Add warmth and style to your home with the Cozy Home Decor Throw Blanket. This soft and luxurious blanket is perfect for snuggling up on the couch during chilly evenings.",
+        "ratings": 4.7,
+        "images": [{
+            "public_id": "product/homeblanket",
+            "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/homeblanket.jpg"
+        }],
+        "category": "home",
+        "seller": "Bed Bath & Beyond",
+        "stock": 30,
+        "numofReviews": 20,
+        "reviews": []
+    }
+]
